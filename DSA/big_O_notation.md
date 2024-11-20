@@ -33,7 +33,7 @@ here if the value of n is in millions then b*n won't have much impact in the val
 
 <hr>
 
-![img.png](img.png)
+![img.png](Assests/img6.png)
 
 <hr>
 
@@ -44,6 +44,6 @@ Because it will iterate to all the elements in the array.
 Binary search complexity : O(log n) . Because here we have a sorted array and we are not iterating each and every element , we have started from the middle element and the search space is halfed.
 
 
-![img_1.png](img_1.png)
+![img_1.png](Assests/img_7.png)
 
-![img_2.png](img_2.png)
+![img_2.png](Assests/img_8.png)
