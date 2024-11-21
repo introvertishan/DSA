@@ -23,3 +23,5 @@ class Solution(object):
 
 a = Solution()
 print(a.groupAnagrams(strs))
+
+# Best Solution : https://leetcode.com/problems/group-anagrams/solutions/4683832/beats-99-users-c-java-python-javascript-2-approaches-explained/
